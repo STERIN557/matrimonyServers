@@ -1,0 +1,1 @@
+I am going to create different servers for different uses for example for showing list of user, I will use a different server for showing user profile data i will use different server i that way i will be able to achieve super security and also if one service crashes others will be working fine
